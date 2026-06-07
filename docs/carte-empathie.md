@@ -1,71 +1,89 @@
-# Carte d'empathie — SmartRH
+# Carte d'empathie — Fatou Diallo
 
-> **Projet :** GET409-SmartRH · Équipe SmartRh
-> **Persona :** Fatou, 30 ans — Employée chez TECHIA (Dakar)
-> **Rôle :** Gère la RH de fait, sans être DRH
-> **Équipement :** Ordinateur (Excel), téléphone, WhatsApp
+**Équipe :** GET409-SmartRH · PostLab  **Séance :** S1 — Design Thinking · Empathize & Define  **Projet :** PostLab — Gestion RH des PME sénégalaises  **Date :** 07/06/2026
 
 ---
 
-## 1. PENSE ET RESSENT
+## Persona
 
-- Une simple erreur de paie peut créer un conflit et abîmer sa crédibilité auprès des collègues et du gérant.
-- Charge mentale constante : peur d'oublier une échéance (fin de CDD, cotisation CNSS/IPRES).
-- Rêve d'un outil simple qui ferait les calculs à sa place et la rassurerait chaque fin de mois.
-
----
-
-## 2. VOIT
-
-- Des fichiers Excel et des feuilles de pointage papier qui s'accumulent sur son bureau.
-- Des collègues qui viennent lui demander : *« Il me reste combien de jours de congé ? »*
-- Un gérant débordé qui compte entièrement sur elle pour gérer le personnel.
+| Champ        | Détail                                                              |
+| ------------ | ------------------------------------------------------------------- |
+| Nom & âge    | Fatou Diallo, 30 ans                                                |
+| Localisation | Dakar, Sénégal                                                      |
+| Activité     | Employée chez TECHIA — gère la RH de fait, sans être DRH            |
+| Équipement   | Ordinateur (Excel), smartphone, WhatsApp — pas de logiciel RH dédié |
 
 ---
 
-## 3. ENTEND
+## 1. Ce qu'elle pense et ressent
 
-- Le gérant : *« Fatou, débrouille-toi pour que la paie tombe à temps. »*
-- Les collègues : *« Ma paie n'est pas juste »*, *« J'avais encore un jour de congé »*.
-- Des pubs pour des logiciels RH chers, pensés pour les grandes entreprises.
+> *Préoccupations profondes, rêves, craintes*
 
----
-
-## 4. DIT ET FAIT
-
-| Ce qu'elle dit | Ce qu'elle fait |
-| --- | --- |
-| *« Je passe mes fins de mois à recompter à la main, j'ai peur de me tromper. »* | Tient plusieurs fichiers Excel + un cahier papier pour les présences |
-| *« Personne ne m'a formée à ça. »* | Reporte les tâches RH "non urgentes" (contrats, archivage) faute de temps |
+- Elle travaille rigoureusement chaque fin de mois, mais une simple erreur de calcul peut créer un conflit avec un collègue et abîmer sa crédibilité auprès du gérant
+- Elle ressent une charge mentale constante : peur d'oublier une échéance (fin de CDD, cotisation CNSS/IPRES, visite médicale) alors qu'aucun outil ne la prévient
+- Elle rêve d'un outil simple qui ferait les calculs à sa place et lui donnerait la tranquillité d'esprit chaque fin de mois
 
 ---
 
-## 5. FRUSTRATIONS (Pains)
+## 2. Ce qu'elle voit
 
-- **Stress des échéances :** paie, CNSS/IPRES, fins de contrat — rien n'est automatisé.
-- **Erreurs et litiges récurrents** sur la paie et les soldes de congés.
-- **Information éparpillée** (Excel, papier, mémoire) : aucune vue d'ensemble fiable.
-- **Outils existants trop chers ou trop complexes** pour une PME sans DRH.
+> *Environnement quotidien observable*
 
----
-
-## 6. ASPIRATIONS (Gains)
-
-- Un outil **simple et abordable** : paie, congés, présences, alertes d'échéances en un seul endroit.
-- La **tranquillité d'esprit** : ne plus craindre l'erreur ou l'oubli.
-- **Gagner du temps** pour se consacrer à son vrai métier.
-- **Rester conforme** au droit du travail sénégalais sans être experte RH.
+- Des fichiers Excel et des feuilles de pointage papier qui s'accumulent sur son bureau sans jamais donner une vue d'ensemble fiable
+- Des collègues qui viennent régulièrement lui demander : *« Il me reste combien de jours de congé ? »* ou *« Ma prime est bien comptée ce mois-ci ? »*
+- Un gérant débordé qui lui délègue toute la gestion RH sans lui fournir ni formation ni outil adapté
 
 ---
 
-## Énoncés HMW issus de cette carte
+## 3. Ce qu'elle entend
 
-| # | Comment pourrions-nous… |
-| --- | --- |
-| 1 | …permettre à Fatou d'accéder à ses infos RH sans dépendre d'un intermédiaire ? |
-| 2 | …rendre le suivi de la paie et des congés suffisamment clair pour qu'elle ne soit jamais prise par surprise ? |
-| 3 | …réduire le temps et les démarches pour résoudre un problème RH courant ? |
-| 4 | …faire en sorte qu'elle se sente actrice de sa situation RH, et non sujet de décisions opaques ? |
-| 5 | …l'aider à anticiper ses droits et échéances avant qu'un problème survienne ? |
+> *Ce que son entourage dit, les influenceurs*
 
-> **HMW retenu :** *Comment pourrions-nous permettre aux PME sénégalaises sans DRH de centraliser et suivre en temps réel la paie, les contrats, les congés et les présences, afin de réduire les erreurs et gagner du temps ?*
+- Le gérant : *« Fatou, débrouille-toi pour que la paie tombe à temps. »* — sans lui donner les moyens de le faire sereinement
+- Les collègues : *« Ma paie n'est pas juste »*, *« J'avais encore un jour de congé »* — des contestations récurrentes qui lui font perdre du temps et de l'énergie
+- Des publicités pour des logiciels RH conçus pour les grandes entreprises, trop chers et trop complexes pour une PME sans DRH
+
+---
+
+## 4. Ce qu'elle dit et fait
+
+> *Comportements observables, citations directes*
+
+- *« Je passe mes fins de mois à recompter à la main, j'ai peur de me tromper. »* — une anxiété de performance exprimée clairement
+- Elle tient en parallèle plusieurs fichiers Excel et un cahier papier pour les présences, sans jamais avoir l'assurance que les données sont cohérentes
+- Elle reporte systématiquement les tâches RH jugées « non urgentes » (mise à jour des contrats, archivage, suivi des échéances) faute de temps et d'outil
+
+---
+
+## 5. Frustrations majeures (Pains)
+
+| # | Frustration                                                                                                               | Intensité |
+|---|---------------------------------------------------------------------------------------------------------------------------|-----------|
+| 1 | Stress des échéances : paie, CNSS/IPRES, fins de contrat — aucune alerte automatique, tout repose sur sa mémoire          | ★★★★★     |
+| 2 | Information éparpillée entre Excel, papier et mémoire : aucune vue d'ensemble, risque d'erreur permanent                  | ★★★★★     |
+| 3 | Erreurs et litiges récurrents sur la paie et les soldes de congés qui détériorent le climat social de l'entreprise         | ★★★★☆     |
+| 4 | Outils existants trop chers ou trop complexes : les solutions du marché ne sont pas pensées pour les PME sans DRH          | ★★★★☆     |
+
+---
+
+## 6. Aspirations majeures (Gains)
+
+| # | Aspiration                                                                                                                  | Priorité |
+|---|-----------------------------------------------------------------------------------------------------------------------------|----------|
+| 1 | Un outil simple et abordable centralisant paie, congés, présences et contrats — accessible depuis son téléphone             | ★★★★★    |
+| 2 | La tranquillité d'esprit : ne plus craindre l'erreur ou l'oubli grâce à des alertes automatiques sur les échéances clés     | ★★★★★    |
+| 3 | Rester conforme au droit du travail sénégalais (CNSS/IPRES, Code du Travail) sans avoir besoin d'être experte RH            | ★★★★☆    |
+
+---
+
+## Énoncé HMW
+
+> Comment pourrions-nous **permettre aux PME sénégalaises sans DRH de centraliser et suivre en temps réel la paie, les contrats, les congés et les présences**, afin que des employées comme Fatou ne soient plus jamais prises par surprise ?
+
+---
+
+## Livrable S1
+
+- [x] Carte d'empathie complétée — `docs/carte-empathie.md`
+- [x] Énoncé HMW validé
+- [ ] Commit GitHub effectué
