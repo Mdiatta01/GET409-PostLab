@@ -10,13 +10,11 @@
 | Pape Amadou MBENGUE | Dev UI (No-Code)        | @[à compléter] |
 | Abdoul Aziz NDAO    | Responsable Impact      | @[à compléter] |
 
-> **Nom de l'équipe :** PosLab
-
 ---
 
 ## Notre défi
 
-**Secteur :** Gestion des Ressources Humaines — Projet SmartRH
+**Secteur :** Gestion des Ressources Humaines — Projet PostLab
 
 **Problème :** Dans les PME sénégalaises sans DRH dédié, la gestion du personnel (paie, contrats, congés, présences) repose entièrement sur des fichiers Excel, des cahiers papier et la mémoire humaine. Cela génère des erreurs de paie récurrentes, des conflits sur les soldes de congés, un risque juridique permanent et une charge mentale excessive pour les personnes qui gèrent la RH de fait.
 
