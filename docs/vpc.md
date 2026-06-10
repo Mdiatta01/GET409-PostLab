@@ -1,4 +1,5 @@
 Value Proposition Canvas — SmartRH
+
 HMW Définitif
 "Comment pourrions-nous permettre à une PME sénégalaise sans DRH de fiabiliser sa paie et de ne plus rater une échéance de contrat ou de congé, en s'appuyant sur ses outils actuels (Excel, WhatsApp) et en fonctionnant même avec une connexion instable ?"
 
