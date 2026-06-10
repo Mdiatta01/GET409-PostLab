@@ -1,0 +1,29 @@
+HMW Définitif — SmartRH
+HMW Draft S1
+"Comment pourrions-nous permettre aux PME sénégalaises sans DRH de
+centraliser et suivre en temps réel la paie, les contrats, les congés
+et les présences de leur personnel, afin de réduire les erreurs et
+gagner du temps ?"
+HMW Définitif S2
+"Comment pourrions-nous permettre à une PME sénégalaise sans DRH de
+fiabiliser sa paie et de ne plus rater une échéance de contrat ou de
+congé, en s'appuyant sur ses outils actuels (Excel, WhatsApp) et en
+fonctionnant même avec une connexion instable ?"
+Pourquoi ce HMW ?
+
+Ancrage : PME sans DRH · gestionnaire RH de fait (Fatou) · Excel +
+smartphone + WhatsApp comme outils existants
+Actionnable : 3 solutions possibles — moteur de paie automatisé
+(SMIG/IPRES/CSS/IR) / moteur d'alertes d'échéances (CDD, congés) /
+assistant RH conversationnel sur WhatsApp
+Résiste au Chapeau Noir : remplace le « temps réel » irréaliste par
+un fonctionnement « même avec une connexion instable » (offline-first)
+et resserre sur la fiabilité de la paie — les deux risques prioritaires
+(dépendance réseau, confidentialité) sont ainsi intégrés à l'énoncé
+
+Ce que ce HMW guide en S3
+Construire l'agent Dify qui répond de façon fiable et conforme au droit
+sénégalais aux questions RH (cotisations d'un salaire, légalité d'un
+renouvellement de CDD, solde de congés), renvoie « INSUFFISANT » quand la
+donnée manque, et alimente le tableau de bord MVP — sans jamais inventer
+de chiffre.
