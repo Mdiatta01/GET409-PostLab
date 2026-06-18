@@ -12,7 +12,7 @@
 |---|---|---|
 | Mouhamed DIATTA | Chef de Produit (PM) | @Mdiatta01 |
 | Mouhamadou DIOUF | Master Prompt Engineer | _[à compléter]_ |
-| Pape Amadou MBENGUE | Dev UI (No-Code) | _[à compléter]_ |
+| Pape Amadou MBENGUE | Dev UI (No-Code) | @Amadouzer23 |
 | Abdoul Aziz NDAO | Responsable Impact | _[à compléter]_ |
 
 ---
