@@ -1,4 +1,4 @@
-# Fiche équipe — GET409-SmartRH
+# Fiche équipe — GET409-PostLab
 
 > **Cours :** GET 409 · Swiss UMEF University — Campus de Dakar · 2025-2026
 > **Séance :** S1 — Alliance & Infrastructure
@@ -11,11 +11,11 @@
 
 | Champ | Détail |
 |---|---|
-| Nom de l'équipe | GET409-SmartRH |
+| Nom de l'équipe | GET409-PostLab |
 | Secteur cible | Gestion des Ressources Humaines (PME sénégalaises sans DRH) |
 | Projet fil rouge | SmartRH — Paie, contrats, congés et présences pour PME sans DRH |
-| Dépôt GitHub | https://github.com/Mdiatta01/GET409-SMARTRH |
-| Workspace Dify | GET409-SmartRH |
+| Dépôt GitHub | https://github.com/Mdiatta01/GET409-PostLab |
+| Workspace Dify | GET409-PostLab |
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## Notre défi
 
-**Secteur :** Gestion des Ressources Humaines — Projet SmartRH
+**Secteur :** Gestion des Ressources Humaines — Projet PostLab
 
 **Problème observé :**
 Dans les PME sénégalaises sans DRH, la paie, les contrats, les congés et les
@@ -50,10 +50,10 @@ litiges et risque juridique.
 
 ## Infrastructure S1
 
-- [x] Dépôt GitHub public créé — `GET409-SMARTRH`
+- [x] Dépôt GitHub public créé — `GET409-PostLab`
 - [x] README.md initialisé et mis à jour
 - [x] Dossier `docs/` créé
-- [ ] Workspace Dify configuré — `GET409-SmartRH`
+- [ ] Workspace Dify configuré — `GET409-PostLab`
 - [ ] Tous les membres invités (rôle Write)
 
 ---
