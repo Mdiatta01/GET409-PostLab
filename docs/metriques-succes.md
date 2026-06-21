@@ -1,4 +1,4 @@
-## Métriques de Succès — SmartRH
+## Métriques de Succès — PostLab
 
 ### MVP
 Application web (mobile-first) qui fiabilise la paie d'une PME sans DRH — calcul automatisé SMIG · IPRES · CSS · IR — et alerte avant chaque échéance de contrat ou de congé, avec import/export Excel, accès par rôle et fonctionnement même en connexion instable.
