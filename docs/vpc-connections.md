@@ -1,4 +1,4 @@
-## Connexions 6 Chapeaux → VPC — SmartRH
+## Connexions 6 Chapeaux → VPC — PostLab
 
 ### Profil Client — Origines
 
