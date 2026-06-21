@@ -11,7 +11,7 @@
 | Prénom Nom | Rôle | GitHub |
 |---|---|---|
 | Mouhamed DIATTA | Chef de Produit (PM) | @Mdiatta01 |
-| Mouhamadou DIOUF | Master Prompt Engineer | _[à compléter]_ |
+| Mouhamadou DIOUF | Master Prompt Engineer | LeM2003 |
 | Pape Amadou MBENGUE | Dev UI (No-Code) | @Amadouzer23 |
 | Abdoul Aziz NDAO | Responsable Impact | _[à compléter]_ |
 
