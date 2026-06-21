@@ -1,6 +1,6 @@
 # Carte d'empathie — Fatou Diallo
 
-**Équipe :** GET409-SmartRH · PostLab  **Séance :** S1 — Design Thinking · Empathize & Define  **Projet :** PostLab — Gestion RH des PME sénégalaises  **Date :** 07/06/2026
+**Équipe :** GET409-PostLab  **Séance :** S1 — Design Thinking · Empathize & Define  **Projet :** PostLab — Gestion RH des PME sénégalaises  **Date :** 07/06/2026
 
 ---
 
