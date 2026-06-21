@@ -1,4 +1,4 @@
-# GET409-SmartRH
+# GET409-PostLab
 
 > **Cours :** GET 409 · Swiss UMEF University — Campus de Dakar · 2025-2026
 > **Séance :** S1 — Lancement & Design Thinking
