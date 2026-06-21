@@ -1,4 +1,4 @@
-Contraintes MVP — SmartRH
+Contraintes MVP — PostLab
 
 Persona
 Fatou Diallo, 30 ans, gère la RH sans être DRH, Dakar, ordinateur (Excel), téléphone, WhatsApp
