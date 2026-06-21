@@ -1,4 +1,4 @@
-6 Chapeaux de Bono — SmartRH
+6 Chapeaux de Bono — PostLab
 
 HMW analysé
 Comment pourrions-nous permettre aux PME sénégalaises sans DRH de centraliser et suivre en temps réel la paie, les contrats, les congés et les présences de leur personnel, afin de réduire les erreurs et gagner du temps ?
